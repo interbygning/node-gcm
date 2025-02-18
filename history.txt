@@ -91,3 +91,4 @@
 2025-07-30 14:14:14 add sample data
 2025-11-25 22:38:05 tweak configs
 2025-01-04 16:29:35 initial commit
+2025-02-18 09:30:42 adjust validation rules
