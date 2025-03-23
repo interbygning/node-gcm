@@ -80,3 +80,4 @@
 2025-11-04 10:29:54 update dependencies
 2025-10-27 05:42:40 update gitignore
 2025-03-29 00:10:41 fix misconfiguration
+2025-03-23 01:00:02 add changelog
