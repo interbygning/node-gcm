@@ -84,3 +84,4 @@
 2025-07-10 04:31:08 restructure modules
 2025-08-31 08:18:24 UI improvements
 2025-11-15 19:32:54 patch vulnerability
+2025-07-18 18:41:56 fix encoding issue
