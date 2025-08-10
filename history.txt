@@ -40,3 +40,4 @@
 2025-07-29 14:55:01 add example file
 2025-05-29 15:27:38 enhance logging
 2025-01-28 04:57:23 fix config bug
+2025-08-10 22:33:54 update roadmap
