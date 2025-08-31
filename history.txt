@@ -82,3 +82,4 @@
 2025-03-29 00:10:41 fix misconfiguration
 2025-03-23 01:00:02 add changelog
 2025-07-10 04:31:08 restructure modules
+2025-08-31 08:18:24 UI improvements
